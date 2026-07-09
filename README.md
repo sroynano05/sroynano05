@@ -1,4 +1,4 @@
-<p style="text-align: center;"> Hi there I am Suman Roy 👋</p>
+##                                             Hi there I am Suman Roy 👋
 <img width="735" height="490" alt="download" src="https://github.com/user-attachments/assets/adeb70ba-fbae-4384-af1c-67a4b52b725f" />
 
 
