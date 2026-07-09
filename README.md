@@ -1,6 +1,7 @@
-<h1 style="text-align: center">Hi there I'm Suman Roy 👋</h1>
+<h1 style="text-align: center">Hi there  👋</h1>
 
-[![eetocde](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/fit_road_72/)]
+[![eetocde](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/fit_road_72/)
+[![codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/rishi999)
                                 
 <img width="735" height="490" alt="download" src="https://github.com/user-attachments/assets/adeb70ba-fbae-4384-af1c-67a4b52b725f" />
 
