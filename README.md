@@ -13,7 +13,7 @@
 ![](https://komarev.com/ghpvc/?username=sroynano05&color=green)
 
 
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sroynano05&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sroynan005)](https://git.io/streak-stats)
 
 
 
