@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Hi there  👋</h1>
+<h1 align="center">Hi there  👋</h1>
 <ul>
   <li>I usually write code in Ts/Js and C++/C, but i also like python,rust,assembly</li>
   <li>I am currently trying to dive deep into cybersec and deep learning although I like developing web2 and web3</li>
