@@ -10,7 +10,7 @@
 
 [![eetocde](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/fit_road_72/)
 [![codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/rishi999)
-[![quantquestions](https://img.shields.io/badge/Atcoder-rishi999-blue.svg)](https://atcoder.jp/users/rishi999)
+[![quantquestions](https://img.shields.io/badge/Atcoder-rishi999-blue&logo=https://user-images.githubusercontent.com/63050133/151978980-3e677a92-60b0-4ae7-b1ce-2bd00ab3fe85.svg)](https://atcoder.jp/users/rishi999)
 
                                 
 <img width="735" height="490" alt="download" src="https://github.com/user-attachments/assets/adeb70ba-fbae-4384-af1c-67a4b52b725f" />
