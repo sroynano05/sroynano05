@@ -14,11 +14,13 @@
 <img width="735" height="490" alt="download" src="https://github.com/user-attachments/assets/adeb70ba-fbae-4384-af1c-67a4b52b725f" />
 </div>
 profile view📊:
+
 ![](https://komarev.com/ghpvc/?username=sroynano05&color=green)
 
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=sroynano05&theme=rising-sun)](https://git.io/streak-stats)
 </div>
+connect with me 🔗:
 
-
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b325041@iiit-bh.ac.in)
