@@ -3,7 +3,9 @@
   <li>I usually write code in Ts/Js and C++/C, but i also like python,rust,assembly</li>
   <li>I am currently trying to dive deep into cybersec and deep learning although I like developing web2 and web3</li>
   <li>I'm also trying to learn algorithms,Maths and Electronics</li>
+  <li>The platforms I frequently visit:</li>
 </ul>
+
 <div align="center">
 
 [![eetocde](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/fit_road_72/)
@@ -11,7 +13,7 @@
                                 
 <img width="735" height="490" alt="download" src="https://github.com/user-attachments/assets/adeb70ba-fbae-4384-af1c-67a4b52b725f" />
 </div>
-
+profile view📊:
 ![](https://komarev.com/ghpvc/?username=sroynano05&color=green)
 
 <div align="center">
