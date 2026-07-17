@@ -22,7 +22,7 @@ profile view📊:
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=sroynano05&theme=rising-sun)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sroynano05)](https://git.io/streak-stats)
 </div>
 connect with me 🔗:
 
